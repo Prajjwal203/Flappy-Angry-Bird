@@ -1,0 +1,115 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\backend_Resources\\Projects\\FlappyAB\\Flappy_Angry_Bird\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA0BAA73-528E-3141-A7B1-E772C036B708}|Assembly-CSharp.csproj|d:\\backend_resources\\projects\\flappyab\\flappy_angry_bird\\assets\\birdscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA0BAA73-528E-3141-A7B1-E772C036B708}|Assembly-CSharp.csproj|solutionrelative:assets\\birdscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA0BAA73-528E-3141-A7B1-E772C036B708}|Assembly-CSharp.csproj|D:\\backend_Resources\\Projects\\FlappyAB\\Flappy_Angry_Bird\\assets\\logicscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA0BAA73-528E-3141-A7B1-E772C036B708}|Assembly-CSharp.csproj|solutionrelative:assets\\logicscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA0BAA73-528E-3141-A7B1-E772C036B708}|Assembly-CSharp.csproj|D:\\backend_Resources\\Projects\\FlappyAB\\Flappy_Angry_Bird\\assets\\pipemiddlescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA0BAA73-528E-3141-A7B1-E772C036B708}|Assembly-CSharp.csproj|solutionrelative:assets\\pipemiddlescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA0BAA73-528E-3141-A7B1-E772C036B708}|Assembly-CSharp.csproj|D:\\backend_Resources\\Projects\\FlappyAB\\Flappy_Angry_Bird\\assets\\pipemovescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA0BAA73-528E-3141-A7B1-E772C036B708}|Assembly-CSharp.csproj|solutionrelative:assets\\pipemovescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA0BAA73-528E-3141-A7B1-E772C036B708}|Assembly-CSharp.csproj|D:\\backend_Resources\\Projects\\FlappyAB\\Flappy_Angry_Bird\\assets\\pipespawnscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA0BAA73-528E-3141-A7B1-E772C036B708}|Assembly-CSharp.csproj|solutionrelative:assets\\pipespawnscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\backend_Resources\\Projects\\Flappy Angry Bird\\Temp\\Compiled-Sprites-Default.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PipeMiddleScript.cs",
+              "DocumentMoniker": "D:\\backend_Resources\\Projects\\FlappyAB\\Flappy_Angry_Bird\\Assets\\PipeMiddleScript.cs",
+              "RelativeDocumentMoniker": "Assets\\PipeMiddleScript.cs",
+              "ToolTip": "D:\\backend_Resources\\Projects\\FlappyAB\\Flappy_Angry_Bird\\Assets\\PipeMiddleScript.cs",
+              "RelativeToolTip": "Assets\\PipeMiddleScript.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T17:06:23.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LogicScript.cs",
+              "DocumentMoniker": "D:\\backend_Resources\\Projects\\FlappyAB\\Flappy_Angry_Bird\\Assets\\LogicScript.cs",
+              "RelativeDocumentMoniker": "Assets\\LogicScript.cs",
+              "ToolTip": "D:\\backend_Resources\\Projects\\FlappyAB\\Flappy_Angry_Bird\\Assets\\LogicScript.cs",
+              "RelativeToolTip": "Assets\\LogicScript.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwBwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T06:50:07.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PipeSpawnScript.cs",
+              "DocumentMoniker": "D:\\backend_Resources\\Projects\\FlappyAB\\Flappy_Angry_Bird\\Assets\\PipeSpawnScript.cs",
+              "RelativeDocumentMoniker": "Assets\\PipeSpawnScript.cs",
+              "ToolTip": "D:\\backend_Resources\\Projects\\FlappyAB\\Flappy_Angry_Bird\\Assets\\PipeSpawnScript.cs",
+              "RelativeToolTip": "Assets\\PipeSpawnScript.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T10:47:41.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PipeMoveScript.cs",
+              "DocumentMoniker": "D:\\backend_Resources\\Projects\\FlappyAB\\Flappy_Angry_Bird\\Assets\\PipeMoveScript.cs",
+              "RelativeDocumentMoniker": "Assets\\PipeMoveScript.cs",
+              "ToolTip": "D:\\backend_Resources\\Projects\\FlappyAB\\Flappy_Angry_Bird\\Assets\\PipeMoveScript.cs",
+              "RelativeToolTip": "Assets\\PipeMoveScript.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAAA4AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T10:24:44.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BirdScript.cs",
+              "DocumentMoniker": "D:\\backend_Resources\\Projects\\FlappyAB\\Flappy_Angry_Bird\\Assets\\BirdScript.cs",
+              "RelativeDocumentMoniker": "Assets\\BirdScript.cs",
+              "ToolTip": "D:\\backend_Resources\\Projects\\FlappyAB\\Flappy_Angry_Bird\\Assets\\BirdScript.cs",
+              "RelativeToolTip": "Assets\\BirdScript.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T16:19:01.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Compiled-Sprites-Default.shader",
+              "DocumentMoniker": "D:\\backend_Resources\\Projects\\Flappy Angry Bird\\Temp\\Compiled-Sprites-Default.shader",
+              "RelativeDocumentMoniker": "..\\..\\Flappy Angry Bird\\Temp\\Compiled-Sprites-Default.shader",
+              "ToolTip": "D:\\backend_Resources\\Projects\\Flappy Angry Bird\\Temp\\Compiled-Sprites-Default.shader",
+              "RelativeToolTip": "..\\..\\Flappy Angry Bird\\Temp\\Compiled-Sprites-Default.shader",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2024-07-20T14:04:46.338Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
