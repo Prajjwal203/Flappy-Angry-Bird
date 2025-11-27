@@ -37,8 +37,6 @@ Flappy Angry Bird is a lightweight Flappy Bird clone implemented in .NET. The ga
 
 Demo / Screenshots
 
-(Replace these placeholders with actual images in /assets/screenshots or the repository docs folder.)
-
 screenshot-1.png — Main menu
 
 screenshot-2.png — In-game (mid-flap)
@@ -59,7 +57,7 @@ Keyboard and mouse control support.
 
 Easy-to-read, modular .NET code (suitable for extension).
 
-Requirements
+Requirements 
 
 .NET SDK 6.0 or later recommended (works with .NET 7+).
 
@@ -88,7 +86,6 @@ Build
 dotnet build
 
 
-(If the project uses a game framework like MonoGame, follow that framework’s build/run instructions.)
 
 Controls
 
@@ -96,7 +93,7 @@ Spacebar — Flap (give the bird an upward impulse)
 
 Left Mouse Click — Flap
 
-Escape — Pause / Quit to menu (if implemented)
+Escape — Pause / Quit to menu
 
 Tip: Adjust input mapping in InputManager (or equivalent class).
 
