@@ -2,6 +2,11 @@ Flappy Angry Bird
 
 A simple, fun Flappy Bird-style game built with .NET — flap your way through pipes while an angry bird carries the hopes of your high score.
 (Note: the project currently uses an angry-bird-style image for the player sprite — see Assets & Licensing below.)
+Demo / Screenshots to check: (Assets\Screenshots)
+    Screenshot-gamestart.png => Game start
+    Screenshot-gameplay.png — In-game (mid-flap)
+    Screenshot-gameover.png — Game over / score screen
+    Gameplay Recording (.mp4) 
 
 Table of contents
 
@@ -37,11 +42,13 @@ Flappy Angry Bird is a lightweight Flappy Bird clone implemented in .NET. The ga
 
 Demo / Screenshots
 
-screenshot-1.png — Main menu
+Screenshot-gamestart.png => Game start
 
-screenshot-2.png — In-game (mid-flap)
+Screenshot-gameplay.png — In-game (mid-flap)
 
-screenshot-3.png — Game over / score screen
+Screenshot-gameover.png — Game over / score screen
+
+Gameplay Recording (.mp4) => in the same (Assets\Screenshots) folder
 
 Features
 
@@ -71,8 +78,8 @@ Installation & Running
 
 Clone repository
 
-git clone https://github.com/<your-username>/flappy-angry-bird.git
-cd flappy-angry-bird
+git clone https://github.com/Prajjwal203/Flappy-Angry-Bird.git
+cd Flappy-Angry-Bird
 
 
 Restore and run
