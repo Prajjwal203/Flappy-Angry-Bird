@@ -5,7 +5,7 @@ A simple, fun Flappy Bird-style game built with .NET — flap your way through p
 Demo / Screenshots to check: (Assets\Screenshots)
     Screenshot-gamestart.png => Game start
     Screenshot-gameplay.png — In-game (mid-flap)
-    Screenshot-gameover.png — Game over / score screen
+    Screenshot-gameover.png — Game over / score screen 
     Gameplay Recording (.mp4) 
 
 Table of contents
